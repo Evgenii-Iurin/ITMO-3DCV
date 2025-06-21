@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#HW2
+*public_tests
+
+# zip
+*.zip
